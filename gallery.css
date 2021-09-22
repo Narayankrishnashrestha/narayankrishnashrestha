@@ -140,6 +140,28 @@ padding:0 7%;
   display: flex;
   justify-content: space-evenly;
 }
+.section33{
+  width: 33.33%;
+  float: left;
+  padding: 0px 50px 0px 50px;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+.section33 img{
+  transition: 0.3s ease-in-out;
+}
+.section33:hover img{
+  transform: scale(1.1);
+}
+
+.section33 h2{
+  color: #38A3A5;
+}
+.section33 p{
+  padding: 10px;
+
+}
   #imp-link a:hover{
       color: blue;
   }
