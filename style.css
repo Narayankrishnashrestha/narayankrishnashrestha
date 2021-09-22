@@ -124,7 +124,7 @@ margin: 0;
 }
 /* poster */
 .poster{
-    background-image: url(/slider_photos/1.JPG);
+    background-image: url(./slider_photos/1.JPG);
     height: 500px;
     background-position: center;
     background-size: cover;
