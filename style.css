@@ -122,6 +122,40 @@ margin: 0;
     text-decoration-thickness: 2px;
     
 }
+/* portfolio */
+
+.portfolio{
+    width: 100%;
+    background-image: url(/img/Portfolio_Karnali.JPG);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+
+}
+h5{
+    margin:0px;
+    padding:0px; 
+    font-size: 25px;
+}
+.portfoliocontent{
+    padding-left: 50px;
+    margin-top: 250px;
+    width: 50%;
+    text-align: left;
+   
+}
+span{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+.portfolio img {
+    width: 100%;
+}
+/* endof portfolio */
 /* poster */
 .poster{
     background-image: url(./slider_photos/1.JPG);
@@ -234,53 +268,9 @@ float: left;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 12px;
 }
-/* Subscribe
-#subscribe-section{
-    background-color: #38A3A5;
-    overflow:auto;
-    /* padding-top: 30px;
-    padding-bottom: 30px; 
-    
-}
-.section50{
-    width: 50%;
-    float: left;
-    text-align: left;
-}
-.section50{
-    width: 50% ;
-    float: left;
-}
-.section50 h2{
-    font-size: 27px;
-    text-align: right;
-    padding-right: 50px;
-}
-.section50 form{
-    padding-top: 20px;
-}
-#subscribe-section{
-    color: white;
-    font-family: 'Noto Sans JP', sans-serif;
 
-}
-.section50 input[type="text"]{
-    color: #38A3A5;
-    margin-right: 20px;
-    border: 0px;
-    width: 40%;
-    padding: 10px 10px;
-    font-size: 15px;
-}
-.section50 input[type="submit"]{
-   padding: 8px 35px;
-   font-size: 15px;
-   color: #38A3A5;
-   border: 0px;
-    
 
-    
-} */
+
 
 
 /* footermenu */
